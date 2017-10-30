@@ -1,0 +1,4 @@
+http://forum.openframeworks.kr/t/1-git/81
+
+git- 간편안내서
+https://rogerdudler.github.io/git-guide/index.ko.html
