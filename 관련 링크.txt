@@ -1,4 +1,5 @@
-http://forum.openframeworks.kr/t/1-git/81
-
 git- 간편안내서
 https://rogerdudler.github.io/git-guide/index.ko.html
+
+한글번역 프로젝트 참여방법
+http://forum.openframeworks.kr/t/1-git/81
